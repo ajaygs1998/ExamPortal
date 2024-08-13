@@ -1,4 +1,4 @@
-# Exam Portal - JNU E-Portal
+# Exam Portal - Exam-Portal
 
 A java Spring Boot Project 
 
